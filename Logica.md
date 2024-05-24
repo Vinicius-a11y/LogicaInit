@@ -8,3 +8,9 @@ Nada melhor do que poder relembrar o básico, porém "fundamental", da lógica. 
 # Vamos começar ?
 
 Vamos iniciar com as aulas do Big BOSS "Gustavo Guanabara"... 
+
+
+# Algoritmos
+
+algoritmos são conjuntos de passos *finitos* e *organizados* que, quando executados, resolvem um determinado *Problema*.
+
