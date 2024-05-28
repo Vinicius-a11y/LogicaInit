@@ -14,3 +14,9 @@ Vamos iniciar com as aulas do Big BOSS "Gustavo Guanabara"...
 
 algoritmos são conjuntos de passos *finitos* e *organizados* que, quando executados, resolvem um determinado *Problema*.
 
+
+# Algoritmos Computacionais
+
+são passos a serem seguidos por um Módulo processador e seus respectivos usuarios que, quando executados na ordem correta, conseguem realizar determiada tarefa.
+
+
