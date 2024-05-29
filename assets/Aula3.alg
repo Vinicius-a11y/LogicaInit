@@ -1,43 +1,48 @@
-//algoritmo "MeuNome"
+algoritmo "MeuNome"
 
-//var
-//nome : caractere
+var
+nome : caractere
 
-//inicio
+inicio
 
-//escreva ("Digite seu nome: ")
-//leia (nome)
-//escreva("Muito prazer", nome)
+escreva ("Digite seu nome: ")
+leia (nome)
+escreva("Muito prazer", nome)
 
-//fimalgoritmo
+fimalgoritmo
 
+-------------------------------------------------
 
-//algoritmo "Valores"
+algoritmo "Valores"
 
-//var
- // N1, N2: Inteiro
-//inicio
- // escreval ("Informe um Numero:")
- // leia (N1)
- // escreva ("Informe outro Numero:")
- // leia(N2)
- // S <- N1 + N2
- // escreva("A soma e ",N1, "e", N2, " e igual" S)
-//fimalgoritmo
+var
+  N1, N2: Inteiro
+inicio
+  escreval ("Informe um Numero:")
+  leia (N1)
+  escreva ("Informe outro Numero:")
+  leia(N2)
+  S <- N1 + N2
+  escreva("A soma e ",N1, "e", N2, " e igual" S)
+fimalgoritmo
 
-//algoritmo "Valores"
+-------------------------------------------------
 
-//var
-  //N1, N2: Inteiro
- // M: Real
-//inicio
- // escreval ("Informe um Numero:")
-  //leia (N1)
-  //escreva ("Informe outro Numero:")
-  //leia(N2)
- // M <- N1 + N2/2 
-  //escreva("A soma e ",N1, "e", N2, " e igual" M)
-//fimalgoritmo
+algoritmo "Valores"
+
+var
+  N1, N2: Inteiro
+  M: Real
+inicio
+  escreval ("Informe um Numero:")
+  leia (N1)
+  escreva ("Informe outro Numero:")
+  leia(N2)
+ M <- N1 + N2/2 
+  escreva("A soma e ",N1, "e", N2, " e igual" M)
+fimalgoritmo
+
+-------------------------------------------------
 
 algoritmo "conversor"
 var 
