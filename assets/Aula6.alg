@@ -16,7 +16,7 @@ Inicio
   FimSe
 Fimalgoritmo
 
-
+-------------------------------------------------
 
 Algoritmo "ParOuImpar"
 Var
@@ -34,6 +34,7 @@ Inicio
 
 Fimalgoritmo
 
+-------------------------------------------------
 
 Algoritmo "CalcIMC"
 Var
